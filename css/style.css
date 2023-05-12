@@ -17,3 +17,21 @@ font-family: 'Shadows Into Light Two', cursive;
 
     .h1-font{font-size: 50px;
         font-weight: 700;}
+
+.second-section{
+    background-color: #E4E4DD;
+}
+
+
+.div-third-section{
+    background-color: #2E2E2E;
+    color: white;
+}
+.p-font{font-size: 13px;}
+
+.third-section-card{
+    margin-left: -120px;
+}
+.icon-third-section-card{
+    margin-top: -5px;
+}
