@@ -35,3 +35,11 @@ font-family: 'Shadows Into Light Two', cursive;
 .icon-third-section-card{
     margin-top: -5px;
 }
+
+.third-section{
+    background-color: black;
+    color: white;
+}
+.card-third-section{
+    background-color: #2E2E2E;
+}
